@@ -1,0 +1,6 @@
+[
+  {"stock_code":"D00105174","corp_name":"에이치디현대오일뱅크","period":"2026H1","rcept_no":"20260814001979","fs_div":"CFS","tables":[
+    {"index":212,"bs_account":"단기금융부채","components":["단기차입금","유동성장기차입금","유동성사채"]},
+    {"index":214,"bs_account":"장기금융부채","components":["장기차입금","사채"]}
+  ]}
+]

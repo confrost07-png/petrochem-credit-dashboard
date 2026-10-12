@@ -1,0 +1,10 @@
+streamlit>=1.50,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+plotly>=5.20,<8
+matplotlib>=3.9,<4
+reportlab>=4.2,<5
+Pillow>=10,<13
+requests>=2.31,<3
+python-dotenv>=1,<2
+lxml>=5,<7
